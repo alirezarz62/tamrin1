@@ -1,1 +1,1 @@
-line 1 in first_branch
+line 1 in second_branch
